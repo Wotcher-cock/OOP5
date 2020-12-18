@@ -141,6 +141,10 @@
   <ItemGroup>
     <ClCompile Include="OOP5.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BD.h" />
+    <ClInclude Include="PL.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
